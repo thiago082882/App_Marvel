@@ -38,9 +38,8 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - coil
 - dagger hilt
 - view model
-- live data
 - coroutines
-- moshi (retrofit)
+- room
 - retrofit
   
 
